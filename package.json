@@ -1,0 +1,16 @@
+{
+  "name": "bson2json",
+  "version": "1.0.0",
+  "description": "Converts BSON data to JSON",
+  "main": "index.js",
+  "bin": "bson2json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emanuel Fernandes",
+  "license": "MIT",
+  "dependencies": {
+    "bson": "^0.4.21",
+    "commander": "^2.9.0"
+  }
+}
